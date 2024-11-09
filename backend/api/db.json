@@ -1,0 +1,35 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Romance"
+    },
+    {
+      "id": "2",
+      "nome": "Terror"
+    }
+  ],
+  "livros": [
+    {
+      "titulo": "A culpa e das estrelas",
+      "autor": "John Green",
+      "preco": 29,
+      "categoriaId": 1,
+      "id": "7be3"
+    },
+    {
+      "id": "e28b",
+      "titulo": "Os Sete Maridos de Evelyn Hugo",
+      "autor": "Taylor Jenkins Reid",
+      "preco": 39,
+      "categoriaId": 1
+    },
+    {
+      "titulo": "It",
+      "autor": " Stephen King",
+      "preco": 49,
+      "categoriaId": 2,
+      "id": "da93"
+    }
+  ]
+}
